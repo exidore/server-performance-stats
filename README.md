@@ -1,3 +1,9 @@
+📊 Server Performance Stats
+A lightweight Bash script to display real-time server performance metrics — perfect for DevOps, sysadmins, and Linux learners.
+This project is based on the Server Performance Stats (https://roadmap.sh/projects/server-stats) project on roadmap.sh
+
+
+
 # Server Performance Stats Script
  
 A Bash script to monitor basic server performance metrics on any Linux system.
